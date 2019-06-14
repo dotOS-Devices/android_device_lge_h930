@@ -2,5 +2,14 @@
   {
     "repository": "android_device_lge_joan-common",
     "target_path": "device/lge/joan-common"
+  },
+  {
+    "repository": "android_kernel_lge_msm8998",
+    "target_path": "kernel/lge/msm8998"
+  },
+  {
+    "repository": "proprietary_vendor_lge",
+    "target_path": "vendor/lge"
   }
 ]
+  
